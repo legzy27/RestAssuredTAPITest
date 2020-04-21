@@ -4,6 +4,7 @@
  # Prerequisite
 
  - Download and install IntelliJ Community Edition https://www.jetbrains.com/idea/
+ - Download and install RestAssured http://rest-assured.io/
 
 
  # Test run 
